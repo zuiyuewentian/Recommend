@@ -1,0 +1,5 @@
+E:\cc\Recommend\Recommend\Recommend\bin\Debug\Recommend.exe
+E:\cc\Recommend\Recommend\Recommend\bin\Debug\Recommend.pdb
+E:\cc\Recommend\Recommend\Recommend\obj\Debug\Recommend.csprojResolveAssemblyReference.cache
+E:\cc\Recommend\Recommend\Recommend\obj\Debug\Recommend.exe
+E:\cc\Recommend\Recommend\Recommend\obj\Debug\Recommend.pdb
